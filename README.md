@@ -1,6 +1,6 @@
 # ecommerce-01
-# Automatización la búsqueda de un iPhone 13 en Mercado Libre utilizando Playwright con TypeScript,
-organizando el proyecto con el patrón Page Object Model (POM) y utilizando Cucumber + Gherkin para la definición de pruebas.
+# Automatización la búsqueda de un iPhone 13 en Mercado Libre utilizando Playwright con TypeScript
+Organizando el proyecto con el patrón Page Object Model (POM) y utilizando Cucumber + Gherkin para la definición de pruebas.
 
 ## Requisitos
 
